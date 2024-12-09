@@ -1,7 +1,7 @@
 # Interactive Shopping List
 
-## Code Challenge
-This project is a simple **Shopping List** application designed to help users manage their shopping lists dynamically. The challenge combines **array iteration**, **DOM manipulation**, and **event handling** to create a functional and user-friendly web application.
+// Live link; https://hollidah.github.io/shopping_list_DOM_manipulation/
+
 
 ## Objective
 Develop a webpage where users can:
