@@ -78,4 +78,6 @@ The project consists of three main files:
   - Adding new items to the array and rendering them in the DOM.
   - Toggling the purchased state of items.
   - Clearing the entire list.
+ 
+  - Author: Holliah Chemutai
 
