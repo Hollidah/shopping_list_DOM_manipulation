@@ -10,8 +10,8 @@ const shoppingListContainer = document.getElementById("shoppingList");
 
 document.addEventListener("DOMContentLoaded", loadFromLocalStorage);
 
-addButton.addEventListener("click", addItem);
-clearButton.addEventListener("click", clearList);
+addItemButton.addEventListener("click", addItem);
+clearListButton.addEventListener("click", clearList);
 
 
 function renderList() {
